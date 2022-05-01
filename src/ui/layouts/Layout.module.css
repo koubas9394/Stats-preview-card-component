@@ -1,0 +1,4 @@
+.container {
+    @apply flex justify-center items-center h-screen;
+    @apply bg-primary-veryDarkBlue;
+}
